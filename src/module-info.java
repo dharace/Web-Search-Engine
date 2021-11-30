@@ -1,0 +1,3 @@
+module ACCProject {
+	requires jsoup;
+}
